@@ -15,7 +15,7 @@
 <div class="about-us-container">
 
 <div class="about-us-banner-image">
-    <img src="/parkland-taichi/wp-content/themes/parkland-theme/images/ptc-about-us-banner.jpg" alt="group photo in front on yin and yang">
+    <img src="/wp-content/themes/parkland-theme/images/ptc-about-us-banner.jpg" alt="group photo in front on yin and yang">
 </div>
 
 <div class="about-us-section">
@@ -25,7 +25,7 @@
     <div class="about-us-section-intro">
 
         <div class="about-us-section-image">
-            <image><img src="/parkland-taichi/wp-content/themes/parkland-theme/images/ptc-about-us-section-image.jpg" alt="photo of tai chi class"></image>
+            <image><img src="/wp-content/themes/parkland-theme/images/ptc-about-us-section-image.jpg" alt="photo of tai chi class"></image>
         </div>
 
         <div class="about-us-section-written-content">
